@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marko Vladisavljevic.
-- 👀  Love to writing code and learning new features.
+- 👀  Love to write code and learning new features.
 - 🌱 I’m currently learning and working on Fullstack Web Development.
 - 💞️ I’m looking to collaborate on web development related projects, both Front an Back-end.
 - 📫 Reach me anytime: markovladi@gmail.com
